@@ -1,0 +1,6 @@
+{
+  "name": "DEDUN",
+  "description": "DEDUN - Personal money tracker passbook and luxury accounting ledger for tracking allowance, income, cashflow and budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
